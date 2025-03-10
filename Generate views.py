@@ -1,5 +1,5 @@
 # Databricks notebook source
-catalog_name = 'alexander_genser'
+catalog_name = 'algenser_test'
 schema_name = 'training_data'
 
 # COMMAND ----------

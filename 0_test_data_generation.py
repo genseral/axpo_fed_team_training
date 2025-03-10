@@ -9,7 +9,7 @@
 
 # COMMAND ----------
 
-# creating a widget to set catalog name; set your catalog name as a second parameter
+# creating a widget to set catalog name; set your catalog name in the widget that appears in the top left or in the code
 dbutils.widgets.text("catalog_name", "algenser_test")
 catalog_name = dbutils.widgets.get("catalog_name")
 
