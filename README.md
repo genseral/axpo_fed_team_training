@@ -2,6 +2,11 @@
 
 This repository contains code and resources for training and working with Databricks, Delta Live Tables (DLT), and data generation using PySpark and dbldatagen. Below is a summary of the contents of this repository:
 
+## Getting Started
+
+1. **Run `0_test_data_generation.py`**: This script sets up the necessary test data for the other notebooks and scripts.
+2. Explore the other notebooks and scripts to understand how to work with Databricks, Delta Live Tables, and data generation using PySpark.
+
 ## Files and Notebooks
 
 ### 1. `0_test_data_generation.py`
@@ -30,11 +35,6 @@ This notebook contains various test cases and examples created during a workshop
 
 ### 9. `test_notebook 2.sql`
 This SQL notebook collects SQL 1 statement pipelines and demonstrates how to integrate them into a larger end-to-end pipeline.
-
-## Getting Started
-
-1. **Run `0_test_data_generation.py`**: This script sets up the necessary test data for the other notebooks and scripts.
-2. Explore the other notebooks and scripts to understand how to work with Databricks, Delta Live Tables, and data generation using PySpark.
 
 ## License
 
